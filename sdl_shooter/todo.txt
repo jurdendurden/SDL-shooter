@@ -1,0 +1,12 @@
+- Enemies and collision detection
+- Show score, health, enemies killed, and level on screen
+- Need a second window every 5 levels for a shop
+- Random power ups as the level progresses
+x Weapons "slots", probably up to four
+/ Show the weapons the player currently has in the corner and allow them to scroll through them with the mouse wheel
+- Allow to shoot the planets out of the way (or even blow them up entirely)
+
+
+Types of power ups:
+
+- Warp Core Upgrade (Overall Speed += 1)
